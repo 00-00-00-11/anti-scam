@@ -5,3 +5,6 @@ A flood tool made for phishing/scamming websites making it harder for the receiv
 
 # Information
 Made this a while back and didn't bother making the repo. Make sure to gather the form data before running the src (where the information outputs). Won't work obviously work on websites that have CAPTCHA because the requests won't go through.
+
+## Disclaimer
+This project here has been made for educational purposes only. I do not control the misconduct of my tool. I do not promote the usage of my tool.
