@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/watchers/purelxw/anti-scam?style=social) ![](https://img.shields.io/github/stars/purelxw/anti-scam?style=social) ![](https://img.shields.io/github/forks/purelxw/anti-scam?style=social)
+![](https://img.shields.io/github/watchers/9xw/anti-scam?style=social) ![](https://img.shields.io/github/stars/9xw/anti-scam?style=social) ![](https://img.shields.io/github/forks/9xw/anti-scam?style=social)
 
 # Anti Scam
 A flood tool made for phishing/scamming websites making it harder for the receiver to determine which logins are real and fake.
